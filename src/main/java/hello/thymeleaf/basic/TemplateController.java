@@ -23,6 +23,4 @@ public class TemplateController {
     public String layoutExtends() {
         return "template/layoutExtend/layoutExtendMain";
     }
-
-
 }
